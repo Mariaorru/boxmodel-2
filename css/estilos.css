@@ -1,0 +1,35 @@
+h2{
+	border: 2px solid brown;
+}
+p{
+	border-bottom: 2px solid purple;
+	margin-left: 30px;
+}
+div{
+	margin-top: 40px;
+	background-color:#f5f5d3 ;
+}
+h2.titulo-1{
+	padding: 20px;
+	background-color:#f5b3ae ;
+}
+h2.titulo-2{
+	background-color:#d3f5c4 ;
+	padding: 10px 15px 10px 15px;	
+}
+h2.titulo-3{
+	background-color:#c4edf5 ;
+	padding-top: 25px;	
+}
+p.parrafo-1{
+	background-color:#ecd3f5 ;
+	padding: 15px;
+}
+p.parrafo-2{
+	background-color:#ad7da3 ;
+	padding-left: 40px;
+}
+p.parrafo-3{
+	background-color:#aea3d1 ;
+	padding: 30px 0px 30px 0px;
+}
